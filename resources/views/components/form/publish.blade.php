@@ -1,0 +1,1 @@
+<x-form.button x-on:click="message = 'published'" class="float-right">Publish</x-form.button>
